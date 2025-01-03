@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+*.pyc
+__pycache__/
+
+# Ignore other common files
+*.log
+*.sqlite
+*.pkl
